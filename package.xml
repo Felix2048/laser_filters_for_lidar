@@ -1,5 +1,5 @@
 <package>
-  <name>laser_filters</name>
+  <name>laser_filters_for_lidar</name>
   <description>
     Assorted filters designed to operate on 2D planar laser scanners,
     which use the sensor_msgs/LaserScan type.
